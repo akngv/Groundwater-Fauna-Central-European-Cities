@@ -1,0 +1,2 @@
+# Data-for-Determinants-of-Groundwater-Fauna-Occurrence-in-Central-European-Cities
+This dataset accompanies the manuscript "Determinants of Groundwater Fauna Occurrence in Central European Cities". It contains environmental variables and occurrence data of stygobiont crustaceans from sampling sites in the cities Vienna, Munich and Halle. The data are provided as a CSV file. Column names und units are explained in the README file.

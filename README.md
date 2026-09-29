@@ -3,7 +3,9 @@
 This repository accompanies the manuscript: 
 Meyer, L., Hemmerle, H., Becher, J., Englisch, C., Griebler, C., Bayer, P. (202X): Determinants of Groundwater Fauna Occurrence in Central European Cities.
 
-The scripts classify the presence of stygobiont crustaceans in urban groundwater from environmental parameters. For each region, several common classification models are compared, and the least important predictor (based on permutation importance) is removed iteratively.
+The scripts assess the relevance of individual environmental variables to the presence of stygobiont crustaceans in urban groundwater, using classification
+models with iterative feature elimination based on permutation importance.
+
 
 ## Repository contents
 
